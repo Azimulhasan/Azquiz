@@ -45,11 +45,7 @@ Well an app for quiz and polls.
 
 ### Database
 1. Account Table
-    - Account no
-    - User ID
-    - Name 
-    - Email
-    - HashPass
+| Account no | User ID | Name | Email | HashPass |
 2. Quiz Listing
     - Quiz List
     - Quiz Id
