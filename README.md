@@ -17,7 +17,7 @@ Well an app for quiz and polls.
 13. Participation List for quiz
 14. Account Recovery Page
 
-## Page Flow
+## Page Flow Layout
 ![Date flow of Pages](./uploads/layout.png)
 
 ### For Setup (Use only Once)
