@@ -14,8 +14,11 @@ Well an app for quiz and polls.
 10. Quizing Correcting/Reporting Page 
 11. Polling Page with Instant Result [Guest allowed]
 12. Result for the specific Quiz 
-13. Participation List 
+13. Participation List for quiz
 14. Account Recovery Page
+
+## Page Flow
+![Date flow of Pages](https://discord.com/channels/@me/779323406259978291/1043260889698144358)
 
 ### For Setup (Use only Once)
 - Enviroment Set Page
@@ -57,12 +60,14 @@ Well an app for quiz and polls.
 3. 2 option Quiz 
     - Quiz Id 
     - Question
+    - Picture Path [optional]
     - Option 1
     - Option 2
     - Answer 
 4. 3 option Quiz 
     - Quiz Id 
     - Question
+    - Picture Path [optional]
     - Option 1
     - Option 2
     - Option 3
@@ -70,6 +75,7 @@ Well an app for quiz and polls.
 5. 4 option Quiz 
     - Quiz Id 
     - Question
+    - Picture Path [optional]
     - Option 1
     - Option 2
     - Option 3
