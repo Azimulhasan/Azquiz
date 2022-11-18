@@ -45,8 +45,11 @@ Well an app for quiz and polls.
 
 ### Database
 1. Account Table
-| Account no | User ID | Name | Email | HashPass |
-| ----------- | ----------- || ----------- | ----------- | ----------- |
+    - Account no
+    - User ID
+    - Name 
+    - Email
+    - HashPass
 2. Quiz Listing
     - Quiz List
     - Quiz Id
@@ -94,8 +97,3 @@ Well an app for quiz and polls.
     - Option 2
     - COunt for Option 1
     - Count for Option 2
- 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
