@@ -18,7 +18,7 @@ Well an app for quiz and polls.
 14. Account Recovery Page
 
 ## Page Flow
-![Date flow of Pages](https://discord.com/channels/@me/779323406259978291/1043260889698144358)
+![Date flow of Pages](./uploads/layout.png)
 
 ### For Setup (Use only Once)
 - Enviroment Set Page
