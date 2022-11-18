@@ -97,3 +97,8 @@ Well an app for quiz and polls.
     - Option 2
     - COunt for Option 1
     - Count for Option 2
+ 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
